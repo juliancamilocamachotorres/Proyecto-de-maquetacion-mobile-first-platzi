@@ -148,6 +148,7 @@ main {
     height: auto;
     margin: 0 auto;
     font-family: "Inter", sans-serif;
+    padding-bottom: 20px;
 }
 .main-currency-table .currency-table--title {
     margin-bottom: 15px;
@@ -213,13 +214,22 @@ height: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
-.main-currency-table .comision-table--title {
+.main-comision-table {
+    width: 70%;
+    min-width: 235px;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+}
+
+.main-comision-table .comision-table--title {
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--secondary-blue);
-    padding-top: 30px;
+    
 }
 .currency-table--date {
     width: 190px;
@@ -357,7 +367,7 @@ height: 100%;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./assets/imgs/bitcoinbaby.jpg);
+    background-image: url(./assets/imgs/bitcoinbaby2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
