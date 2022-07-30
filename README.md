@@ -2,24 +2,24 @@
 
 # Proyecto-de-maquetacion-mobile-first-platzi
 
-this is my first personal project of mobile first with platzi
+This is my first personal project of mobile first with platzi
 
 <img src="https://imgur.com/ToJ37rG.png" class="preview-img" >
 
-## mobile mode
+## Mobile mode
 
-<div class="mobile">
-<img src="https://imgur.com/r5i1J4Z.png" >
-<img src="https://imgur.com/SQ30Ehx.png" >
-<img src="https://imgur.com/kGpRMkP.png" >
+<div >
+<img src="https://imgur.com/r5i1J4Z.png" height="700" width="320">
+<img src="https://imgur.com/SQ30Ehx.png" height="700" width="320">
+<img src="https://imgur.com/kGpRMkP.png" height="700" width="320">
 </div>
 
-## laptop mode
+## Laptop mode
 
 <div class="laptop">
-<img src="https://imgur.com/CwOC3Nd.png" >
-<img src="https://imgur.com/iPYFXDk.png" >
-<img src="https://imgur.com/kmUhzPu.png" >
+<img src="https://imgur.com/CwOC3Nd.png" height="500" width="1024">
+<img src="https://imgur.com/iPYFXDk.png" height="500" width="1024">
+<img src="https://imgur.com/kmUhzPu.png" height="500" width="1024">
 </div>
 
 
